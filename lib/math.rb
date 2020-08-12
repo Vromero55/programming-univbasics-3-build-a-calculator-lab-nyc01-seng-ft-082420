@@ -19,7 +19,7 @@ def modulo(num1, num2)
 answer = num1 % num2
 end
 
-def square_root(num)
-answer = num **
+def square_root(num1)
+answer = num1 **
 answer
 end
