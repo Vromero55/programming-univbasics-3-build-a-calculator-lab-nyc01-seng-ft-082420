@@ -21,7 +21,7 @@ end
 describe "#multiplication" do
   it "multiplies two numbers together" do
     expect(multiplication(4,30)).to eq(120)
-  #end
+  end
 end
 
 describe "#modulo" do
