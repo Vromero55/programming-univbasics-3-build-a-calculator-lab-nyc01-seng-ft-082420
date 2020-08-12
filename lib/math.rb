@@ -20,6 +20,5 @@ answer = num1 % num2
 end
 
 def square_root(num)
-answer = num **
-answer
+answer = num1 **
 end
