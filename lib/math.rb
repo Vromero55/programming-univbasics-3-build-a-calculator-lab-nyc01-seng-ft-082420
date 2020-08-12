@@ -21,5 +21,5 @@ end
 
 def square_root(num)
 answer = num **
-answer
+puts answer
 end
