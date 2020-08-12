@@ -21,13 +21,13 @@ end
 describe "#multiplication" do
   it "multiplies two numbers together" do
     expect(multiplication(4,30)).to eq(120)
-  end
+  #end
 end
 
 describe "#modulo" do
   it "returns the remainder of two numbers" do
     expect(modulo(34, 5)).to eq(4)
-  #end
+  end
 end
 
 describe "#square_root" do
